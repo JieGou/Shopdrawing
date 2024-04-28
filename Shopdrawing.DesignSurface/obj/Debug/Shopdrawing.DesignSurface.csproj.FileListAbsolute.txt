@@ -1,3 +1,0 @@
-E:\Projects\C#\ShopdrawingVer2\Shopdrawing.DesignSurface\obj\Debug\Shopdrawing.DesignSurface.csprojResolveAssemblyReference.cache
-E:\Projects\C#\ShopdrawingVer2\Shopdrawing.DesignSurface\obj\Debug\Shopdrawing.DesignSurface.ExceptionStringTable.resources
-E:\Projects\C#\ShopdrawingVer2\Shopdrawing.DesignSurface\obj\Debug\Shopdrawing.DesignSurface.csproj.GenerateResource.Cache

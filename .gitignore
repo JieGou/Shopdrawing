@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/Common/ComplexDataTemplates/Backup/obj
+/Common/ComplexDataTemplates/obj
+/Common/Shopdawing.Utilities/obj
+/Common/Shopdrawing.Controls/NewProject/NewProjectDialog/obj
+/Common/Reinforcement/obj
+obj
+obj
+obj
+obj
+obj
+obj
+obj
+obj
+obj

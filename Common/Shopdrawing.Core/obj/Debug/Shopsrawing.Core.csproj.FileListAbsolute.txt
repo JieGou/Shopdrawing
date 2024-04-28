@@ -1,2 +1,0 @@
-E:\Projects\C#\Shopdrawing\LiveGeometry\Shopdrawing.Core\obj\Debug\Shopdrawing.Core.Properties.Resources.resources
-E:\Projects\C#\Shopdrawing\LiveGeometry\Shopdrawing.Core\obj\Debug\Shopsrawing.Core.csproj.GenerateResource.Cache
